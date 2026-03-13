@@ -1,7 +1,5 @@
-public class UC7 {
-
-   
-    static class CharacterPatternMap {
+public class OOPSBannerApp {
+        static class CharacterPatternMap {
 
         private char character;
         private String[] pattern;
